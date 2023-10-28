@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_header.scss","sass/_footer.scss"],"names":[],"mappings":"AAAA,QACE,mBAAA,CACA,eAAA,CACA,iBAAA,CCHF,QACE,SAAA","file":"main.css","sourcesContent":[".header {\n  filter: grayscale(1);\n  overflow: hidden;\n  text-align: center;\n}\n",".footer {\n  color: red;\n}\n"]}
